@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Dell\source\repos\Server\Server\bin\Debug\Server.exe
+C:\Users\Dell\source\repos\Server\Server\bin\Debug\Server.pdb
+C:\Users\Dell\source\repos\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\Dell\source\repos\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Dell\source\repos\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Server\Server\obj\Debug\Server.exe
+C:\Users\Dell\source\repos\Server\Server\obj\Debug\Server.pdb
